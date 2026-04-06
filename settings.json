@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "uncontrollable.aternos.me:25726",
+    "ip": "uncontrollable.aternos.me",
     "port": 25726,
     "version": "",
     "try-creative": false
